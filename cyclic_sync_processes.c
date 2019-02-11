@@ -2,7 +2,8 @@
  * Remi Andruccioli
  * February 2019
  *
- * This is a thought on the interview question dealt in this blog post:
+ * This is a thought on the interview question dealt by Vorbrodt in this blog
+ * post:
  * http://blog.vorbrodt.me/?p=584
  *
  * I like the implementation offered in this blog post.
